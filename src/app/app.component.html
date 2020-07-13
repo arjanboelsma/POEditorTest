@@ -1,2 +1,10 @@
-<h1>Hello World</h1>
-<p>Nice to see you, {{ user }}!</p>
+<h1>{{ 'demo.title' | translate }}</h1>
+<p>{{ 'demo.text' | translate:{'name': user} }}</p>
+<br>
+<hr>
+<br>
+<label for="lang">Select language:</label>
+<select name="lang" (change)="setLang($event.target.value)">
+  <option value="en">English</option>
+  <option value="nl">Nederlands</option>
+</select>
