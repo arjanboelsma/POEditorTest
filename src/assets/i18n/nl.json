@@ -1,6 +1,6 @@
 {
-  "demo": {
-    "title": "Hallo Wereld",
-    "text": "Leuk je te zien, {{ name }}!"
-  }
+    "demo": {
+        "title": "Hoi Wereld",
+        "text": "Leuk je te zien, {{ name }}!"
+    }
 }
