@@ -1,1 +1,4 @@
-{}
+{
+    "demo.text": "Leuk om je te zien, {{ name }}!",
+    "demo.title": "Hey jij"
+}
