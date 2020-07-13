@@ -17,4 +17,5 @@ export class AppComponent {
   setLang(lang): void {
     this.translate.setDefaultLang(lang);
   }
+
 }

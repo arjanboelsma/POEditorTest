@@ -1,6 +1,6 @@
 {
   "demo": {
     "title": "Hello you",
-    "text": "It is to see you, {{ name }}!"
+    "text": "It is nice to see you, {{ name }}!"
   }
 }
