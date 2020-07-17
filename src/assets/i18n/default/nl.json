@@ -1,0 +1,4 @@
+{
+    "title": "Hoi Wereld",
+    "text": "Leuk je te zien, {{ name }}!"
+}
